@@ -1,0 +1,13 @@
+jarvis:
+  provider: openai
+  model: gpt-4o-mini
+  system_prompt: |
+    You are J.A.R.V.I.S., a precise, helpful assistant. Be concise.
+    Use tools when helpful. Confirm dangerous actions.
+paths:
+  base_dir: .
+tools:
+  allowed_commands:
+    - ls
+    - pwd
+    - echo
