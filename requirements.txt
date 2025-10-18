@@ -1,0 +1,1 @@
+# Minimal runtime deps (standard library used where possible)
