@@ -1,0 +1,1 @@
+{"user": "run:echo persist check", "action": {"name": "shell", "input": "echo persist check"}, "observation": "persist check\n"}
