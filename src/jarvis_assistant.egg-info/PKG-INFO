@@ -1,0 +1,19 @@
+Metadata-Version: 2.4
+Name: jarvis-assistant
+Version: 0.1.0
+Summary: Minimal JARVIS-like assistant CLI with local-first design.
+Author: Mini JARVIS
+License: MIT
+Project-URL: Homepage, https://example.com
+Keywords: assistant,jarvis,cli,automation,voice,ai
+Requires-Python: >=3.9
+Description-Content-Type: text/markdown
+Provides-Extra: openai
+Requires-Dist: openai>=1.43.0; extra == "openai"
+Provides-Extra: tts
+Requires-Dist: pyttsx3>=2.90; extra == "tts"
+Provides-Extra: http
+Requires-Dist: requests>=2.31.0; extra == "http"
+
+# Nova
+Ai assistant 

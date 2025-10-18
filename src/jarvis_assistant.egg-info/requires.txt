@@ -1,0 +1,9 @@
+
+[http]
+requests>=2.31.0
+
+[openai]
+openai>=1.43.0
+
+[tts]
+pyttsx3>=2.90

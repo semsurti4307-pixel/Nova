@@ -1,0 +1,16 @@
+README.md
+pyproject.toml
+src/jarvis_assistant/__init__.py
+src/jarvis_assistant/__main__.py
+src/jarvis_assistant/cli.py
+src/jarvis_assistant/config.py
+src/jarvis_assistant/llm.py
+src/jarvis_assistant/tts.py
+src/jarvis_assistant.egg-info/PKG-INFO
+src/jarvis_assistant.egg-info/SOURCES.txt
+src/jarvis_assistant.egg-info/dependency_links.txt
+src/jarvis_assistant.egg-info/entry_points.txt
+src/jarvis_assistant.egg-info/requires.txt
+src/jarvis_assistant.egg-info/top_level.txt
+src/jarvis_assistant/skills/shell.py
+src/jarvis_assistant/skills/web.py
