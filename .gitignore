@@ -1,0 +1,5 @@
+# Local runtime data
+jarvis_data/
+.env
+__pycache__/
+*.pyc
